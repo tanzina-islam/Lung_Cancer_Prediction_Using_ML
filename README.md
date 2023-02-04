@@ -17,16 +17,15 @@ The processed dataset was then saved as processed_lung_cancer.csv
 
 Original Dataset:
 
-(https://github.com/tanzina-islam/Lung_Cancer_Prediction_Using_ML/blob/main/LungCancerSurvey.csv)
+https://github.com/tanzina-islam/Lung_Cancer_Prediction_Using_ML/blob/main/LungCancerSurvey.csv
 
 Modeling:
 
-In this thesis we tested 6 different classification algorithms namely:
-In this study, we tried to predict Lung Cancer using 6 different algorithm:
-Logistic regression classification
-SVM (Support Vector Machine) classification
-Naive Bayes classification
-Decision Tree classification
-Random Forest classification
-K-Nearest Neighbor classification
+In this thesis, we tried to predict Lung Cancer using 6 different algorithm:
+Logistic regression classification, 
+SVM (Support Vector Machine) classification,
+Naive Bayes classification,
+Decision Tree classification,
+Random Forest classification,
+K-Nearest Neighbor classification,
 The final model used for the prediction was the Logistic Regression Model which had an accuracy score of 0.79.
